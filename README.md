@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1>Welcome(◍˃̶ᗜ˂̶◍)✩</h1>
+  <h1>字1</h1>
+  <h2>字 222</h2>
 </div>
 <div align="center">
 <picture>
@@ -10,10 +11,6 @@
 </picture>
 
 Empowering my own dreams in coding.
-
-[![][vercel-shield]][vercel-link]
-[![][github-star]][github-link]
-[![build-release](https://github.com/binary-yuki/gpt_academic/actions/workflows/docker-image.yml/badge.svg)](https://github.com/binary-yuki/gpt_academic/actions/workflows/docker-image.yml)
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
