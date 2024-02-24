@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1>字1</h1>
-  <h2>字 222</h2>
+  <h1 align="center">欢迎,,Ծ‸Ծ,,Hi</h1>
 </div>
 <div align="center">
 <picture>
