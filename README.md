@@ -5,11 +5,11 @@
 </div>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
-  <img height="190" src="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/142369058?s=400&u=743ddc37e42f59fd5ab6b368d814a2c5f4315308&v=4">
+  <img height="190" src="https://avatars.githubusercontent.com/u/142369058?s=400&u=743ddc37e42f59fd5ab6b368d814a2c5f4315308&v=4">
 </picture>
 
-Empowering my own dreams in coding.
+
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
