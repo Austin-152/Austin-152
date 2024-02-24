@@ -9,7 +9,7 @@
   <img height="190" src="https://avatars.githubusercontent.com/u/142369058?s=400&u=743ddc37e42f59fd5ab6b368d814a2c5f4315308&v=4">
 </picture>
 
-<b>枪杆子里出政权</b>
+<b>火之将熄,然位不见王影</b>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
