@@ -18,14 +18,14 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art+%2C+keep+learning+;Never+give+up+your+dreams;Keep+yourself+updated)](https://git.io/typing-svg)
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=TECH+OTAKUS+SAVE+THE+WORLD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=true&width=435&lines=TECH+OTAKUS+SAVE+THE+WORLD)](https://git.io/typing-svg)
 ### Hi 🥳
 #### I am a website developer and python programmer.
 #### Aim to be a game developer.
 
 <img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-152&layout=compact&exclude_repo=doubi,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-152&layout=compact&exclude_repo=doubi&count_private=true,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
