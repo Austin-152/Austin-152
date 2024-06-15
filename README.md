@@ -47,5 +47,6 @@ I'm currently exploring:
 - Django <code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" alt="c" height="25"/></code>
 
 
-##The fire fades and the lords go without thrones
+
+The fire fades and the lords go without thrones
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-yuki&count_private=true&theme=radical) -->
