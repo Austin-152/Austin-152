@@ -9,7 +9,7 @@
   <img height="190" src="https://avatars.githubusercontent.com/u/142369058?s=400&u=743ddc37e42f59fd5ab6b368d814a2c5f4315308&v=4">
 </picture>
 
-<b>今日は風ががしいな ~!</b>
+<b>The fire fades and the lords go without thrones</b>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -46,7 +46,4 @@ I'm currently exploring:
 - C <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="25"/></code>
 - Django <code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" alt="c" height="25"/></code>
 
-
-
-The fire fades and the lords go without thrones
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-yuki&count_private=true&theme=radical) -->
