@@ -46,4 +46,10 @@ I'm currently exploring:
 - C <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="25"/></code>
 - Django <code><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" alt="c" height="25"/></code>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,bun,c,git,fastapi,nextjs,py,java" />
+  </a>
+</p>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-yuki&count_private=true&theme=radical) -->
